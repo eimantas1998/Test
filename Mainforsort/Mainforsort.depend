@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525977258 source:c:\users\eimantas\desktop\mainforsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

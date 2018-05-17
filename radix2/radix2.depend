@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526589779 source:c:\users\eimantas\desktop\radix2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527346467 source:c:\users\eimantas\desktop\sortcomparing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
